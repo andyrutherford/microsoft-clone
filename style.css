@@ -21,6 +21,11 @@ ul {
     list-style: none;
 }
 
+h2 {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
 .container {
     max-width: calc(1600px + 10%);
     margin: 0 auto;
@@ -302,6 +307,7 @@ a.btn:hover i {
 }
 
 @media(max-width: 800px) {
+
     .menu-btn {
         display: block;
     }
@@ -365,6 +371,10 @@ a.btn:hover i {
 }
 
 @media(max-width: 540px) {
+    h2 {
+        font-size: 1.8rem;
+    }
+
     .home-cards {
         grid-template-columns: 1fr;
     }
