@@ -1,0 +1,29 @@
+[33mcommit 7b3656cef0334dd63b393991844b5147211488f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Andrew <andrew.rutherford.6@gmail.com>
+Date:   Thu Apr 16 13:52:44 2020 +0700
+
+    updated readme
+
+[33mcommit 08345e87b04d25e2f36bbeabdced2d0b9b2f6908[m
+Author: Andrew <andrew.rutherford.6@gmail.com>
+Date:   Thu Apr 16 13:48:56 2020 +0700
+
+    added favicon
+
+[33mcommit 46d5e7fc2674ad6687696a842c48b3a7a3567bf0[m
+Author: Andrew <andrew.rutherford.6@gmail.com>
+Date:   Thu Apr 16 13:42:51 2020 +0700
+
+    fixed path to showcase-2 image
+
+[33mcommit c3be9e9d335351e957bb2f70fdf499a106c07b23[m
+Author: Andrew <andrew.rutherford.6@gmail.com>
+Date:   Thu Apr 16 13:35:29 2020 +0700
+
+    adjusted size, font-weight for h2
+
+[33mcommit 52955fe1e566962fcdfefada1fb7424b0d678862[m
+Author: Andrew <andrew.rutherford.6@gmail.com>
+Date:   Thu Apr 16 13:28:02 2020 +0700
+
+    initial commit
